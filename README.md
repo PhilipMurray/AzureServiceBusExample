@@ -10,3 +10,4 @@ The Sender populates the Azure Service bus Queue with 10 messages
 The Reciever pulls active messages from the Azure Service Bus Queue and prints the to the console.
 
 The Connection string for the Service Bus is kept in a secrets file using the Secrets Manager.
+Check out how it is done here https://docs.microsoft.com/en-ca/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows
