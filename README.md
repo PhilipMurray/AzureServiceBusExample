@@ -1,6 +1,6 @@
-# AzureServiceBusExample
+# Azure Service Bus Example
 
-## Project Overview
+## Project Overview:
 A couple of .NET Core console applications to send messages to and receive messages from a Azure Service Bus queue
 
 The solution consists of two console applications "Sender" and "Reciever".
